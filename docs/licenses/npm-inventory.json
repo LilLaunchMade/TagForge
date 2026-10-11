@@ -1,0 +1,242 @@
+[
+  {
+    "name": "@esbuild/win32-x64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "development": true,
+    "notices": []
+  },
+  {
+    "name": "@rollup/rollup-win32-x64-gnu",
+    "version": "4.64.5",
+    "license": "MIT",
+    "development": true,
+    "notices": []
+  },
+  {
+    "name": "@rollup/rollup-win32-x64-msvc",
+    "version": "4.64.5",
+    "license": "MIT",
+    "development": true,
+    "notices": []
+  },
+  {
+    "name": "@tauri-apps/api",
+    "version": "2.12.3",
+    "license": "Apache-2.0 OR MIT",
+    "development": false,
+    "notices": [
+      "LICENSE-APACHE-2.0",
+      "LICENSE-MIT",
+      "LICENSE.spdx"
+    ]
+  },
+  {
+    "name": "@tauri-apps/cli",
+    "version": "2.12.2",
+    "license": "Apache-2.0 OR MIT",
+    "development": true,
+    "notices": [
+      "LICENSE-APACHE-2.0",
+      "LICENSE-MIT"
+    ]
+  },
+  {
+    "name": "@tauri-apps/cli-win32-x64-msvc",
+    "version": "2.12.2",
+    "license": "Apache-2.0 OR MIT",
+    "development": true,
+    "notices": []
+  },
+  {
+    "name": "@types/estree",
+    "version": "1.0.9",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "@types/react",
+    "version": "19.3.0",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "@types/react-dom",
+    "version": "19.3.0",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "csstype",
+    "version": "3.2.3",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "esbuild",
+    "version": "0.28.2",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE.md"
+    ]
+  },
+  {
+    "name": "fdir",
+    "version": "6.5.0",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "nanoid",
+    "version": "3.3.20",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "picocolors",
+    "version": "1.1.1",
+    "license": "ISC",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "picomatch",
+    "version": "4.0.7",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "playwright",
+    "version": "1.64.0",
+    "license": "Apache-2.0",
+    "development": true,
+    "notices": [
+      "LICENSE",
+      "NOTICE"
+    ]
+  },
+  {
+    "name": "playwright-core",
+    "version": "1.64.0",
+    "license": "Apache-2.0",
+    "development": true,
+    "notices": [
+      "LICENSE",
+      "NOTICE"
+    ]
+  },
+  {
+    "name": "postcss",
+    "version": "8.5.29",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "prettier",
+    "version": "3.9.10",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "react",
+    "version": "19.3.0",
+    "license": "MIT",
+    "development": false,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "react-dom",
+    "version": "19.3.0",
+    "license": "MIT",
+    "development": false,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "rollup",
+    "version": "4.64.5",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE.md"
+    ]
+  },
+  {
+    "name": "scheduler",
+    "version": "0.28.0",
+    "license": "MIT",
+    "development": false,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "source-map-js",
+    "version": "1.2.2",
+    "license": "BSD-3-Clause",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "tinyglobby",
+    "version": "0.2.17",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "typescript",
+    "version": "5.9.3",
+    "license": "Apache-2.0",
+    "development": true,
+    "notices": [
+      "LICENSE.txt"
+    ]
+  },
+  {
+    "name": "vite",
+    "version": "7.3.7",
+    "license": "MIT",
+    "development": true,
+    "notices": [
+      "LICENSE.md"
+    ]
+  }
+]
